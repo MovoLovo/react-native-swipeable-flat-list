@@ -20,7 +20,7 @@
     "iOS"
   ],
   "author": "Ole Walkenhorst <contact@ratelcode.dev>",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/RatelCode/react-native-swipeable-flat-list/issues"
   },
